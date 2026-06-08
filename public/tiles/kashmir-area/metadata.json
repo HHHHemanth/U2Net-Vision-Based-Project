@@ -1,0 +1,14 @@
+{
+  "name": "kashmir-area",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "baselayer",
+  "format": "pbf",
+  "minzoom": "4",
+  "maxzoom": "10",
+  "scale": "1.000000",
+  "bounds": [74.63000000, 31.27800000, 78.00700000, 35.04500000],
+  "profile": "mercator",
+  "vector_layers": [{"id":"points","description":"","minzoom":4, "maxzoom":10,"fields":{"osm_id":"String","name":"String","barrier":"String","highway":"String","ref":"String","address":"String","is_in":"String","place":"String","man_made":"String","other_tags":"String"}},{"id":"lines","description":"","minzoom":4, "maxzoom":10,"fields":{"osm_id":"String","name":"String","highway":"String","waterway":"String","aerialway":"String","barrier":"String","man_made":"String","railway":"String","z_order":"Number","other_tags":"String"}},{"id":"multilinestrings","description":"","minzoom":4, "maxzoom":10,"fields":{"osm_id":"String","name":"String","type":"String","other_tags":"String"}},{"id":"multipolygons","description":"","minzoom":4, "maxzoom":10,"fields":{"osm_id":"String","osm_way_id":"String","name":"String","type":"String","aeroway":"String","amenity":"String","admin_level":"String","barrier":"String","boundary":"String","building":"String","craft":"String","geological":"String","historic":"String","land_area":"String","landuse":"String","leisure":"String","man_made":"String","military":"String","natural":"String","office":"String","place":"String","shop":"String","sport":"String","tourism":"String","other_tags":"String"}},{"id":"other_relations","description":"","minzoom":4, "maxzoom":10,"fields":{"osm_id":"String","name":"String","type":"String","other_tags":"String"}}]
+}

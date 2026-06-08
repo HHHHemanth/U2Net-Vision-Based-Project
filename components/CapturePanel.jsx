@@ -13,7 +13,7 @@ export default function CapturePanel({ setResult }) {
 
 <button
   onClick={handleCapture}
-  className="primary-btn w-full px-6 py-3 rounded-lg text-base lg:text-lg font-semibold cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-lg"
+  className="primary-btn w-full px-6 py-3 rounded-lg text-white lg:text-lg font-semibold cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-lg"
 >
   Capture & Measure
 </button>
